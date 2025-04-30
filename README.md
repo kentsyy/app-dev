@@ -1,5 +1,4 @@
-# app-dev
-My first repository
+#Favorite Movie
 **My favorite things about Coraline**
 1. It uses a *stop-motion animation* which is unique and hardly used type of animation.
 2. It has a great story and characters.
